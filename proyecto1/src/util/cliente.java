@@ -9,6 +9,10 @@ public class cliente {
 		return null;
 		
 	}
+	public String hola(){
+		return null;
+		
+	}
 
 }
 
